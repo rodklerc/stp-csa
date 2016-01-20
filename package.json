@@ -1,0 +1,26 @@
+{
+  "name": "stp-csa",
+  "version": "0.0.1",
+  "description": "Linked Connections CSA using Scalable Transfer Patterns",
+  "keywords": [
+    "journey planning",
+    "route planning",
+    "public transit",
+    "public transport",
+    "open transport"
+  ],
+  "author": "Robin Deklerck",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodklerc/stp-csa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rodklerc/stp-csa/issues"
+  },
+  "dependencies": {
+    "async": "~1.5.1",
+    "q": "^1.4.1",
+    "underscore": "~1.8.3"
+  }
+}
