@@ -2,8 +2,8 @@
 
 var QueryGraphBuilder = require('../lib/queryGraphBuilder.js');
 
-var s = 'x1', t = 'y3';
-//var s = 'x1', t = 'x2';
+//var s = 'x1', t = 'y3';
+var s = 'b1', t = 'B2';
 
 var sGraph = {};
 sGraph['x1'] = ['x2', 'x3'];
