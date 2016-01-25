@@ -9,6 +9,7 @@
     "public transport",
     "open transport"
   ],
+  "main": "lib/stp-csa.js",
   "author": "Robin Deklerck",
   "license": "MIT",
   "repository": {
